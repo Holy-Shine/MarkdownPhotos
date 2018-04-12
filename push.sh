@@ -1,8 +1,8 @@
 if [ $1!= '' ]
 then
-    msg=$1
+    msg=$1;
 else
-    msg='add a foto'
+    msg='add a foto';
 fi
 
 git add --all
