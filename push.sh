@@ -6,5 +6,5 @@ else
 fi
 
 git add --all
-git commit -m '$msg'
+git commit -m "add foto"
 git push origin master
